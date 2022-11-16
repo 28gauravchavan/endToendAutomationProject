@@ -1,0 +1,11 @@
+endToendAutomationProject\PageObject\addCustomerPage.class
+endToendAutomationProject\Testcases\testLoginPage_001.class
+endToendAutomationProject\PageObject\editCustomerPage.class
+endToendAutomationProject\utility\readConfig.class
+endToendAutomationProject\PageObject\Loginpage.class
+endToendAutomationProject\utility\excel1.class
+endToendAutomationProject\utility\XLutility.class
+endToendAutomationProject\Testcases\testLoginPage_002.class
+endToendAutomationProject\PageObject\deleteCustomerPage.class
+endToendAutomationProject\utility\reporting.class
+endToendAutomationProject\Testcases\baseTest.class

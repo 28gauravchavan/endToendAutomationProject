@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="endToendAutomationProject">
+ <listeners>
+          <listener class-name="endToendAutomationProject.utility.reporting">
+          </listener>
+  </listeners>
+  <test name="Test">
+  <parameter name="browser" value="chrome"/>
+    <classes>
+            
+      <class name="endToendAutomationProject.Testcases.testLoginPage_001"/>
+           <!--   <class name="endToendAutomationProject.Testcases.testLoginPage_002"/>--> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
